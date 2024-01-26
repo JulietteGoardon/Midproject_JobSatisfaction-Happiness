@@ -1,0 +1,47 @@
+Person_id,Age,Gender,Industry,Job_level,Work-life_balance,Remote_frequency,Stress_level,Important_Aspect,Job_satisfaction,Happiness_level
+20240109223046,25-34,Female,Business,Entry-level,5,Everyday,3,Recognition and appreciation,5,
+20240109223634,25-34,Female,Technology,Entry-level,5,Everyday,4,Compensation and benefits,6,8.0
+20240110095600,25-34,Female,Technology,Entry-level,1,Everyday,5,all of them!,3,3.0
+20240110095541,25-34,Female,Business,Entry-level,2,Everyday,4,Work relationships,4,6.0
+20240110103651,35-44,Male,Healthcare,Senior-level,2,Never,3,Opportunities for growth,4,8.0
+20240110112002,25-34,Female,Finance,Mid-level,3,A few times a week,4,Compensation and benefits,6,7.0
+20240110112530,25-34,Male,Technology,Entry-level,3,A few times a week,2,Work relationships,5,8.0
+20240110113149,25-34,Female,Healthcare,Mid-level,3,Never,4,Job fit and skills match,5,5.0
+20240110115531,25-34,Female,Education,Mid-level,3,Everyday,3,Autonomy and empowerment,7,8.0
+20240110121735,25-34,Male,Education,Entry-level,3,A few times a week,3,Opportunities for growth,7,7.0
+20240110122722,25-34,Female,Education,Entry-level,4,Everyday,2,Work-Life Balance,7,9.0
+20240110125002,25-34,Female,Education,Mid-level,4,Everyday,2,Opportunities for growth,6,6.0
+20240110125838,25-34,Male,Business,Mid-level,4,A few times a week,3,Recognition and appreciation,7,8.0
+20240110140351,25-34,Female,Insurance Sector ,Entry-level,4,A few times a week,3,Work relationships,8,8.0
+20240110140725,18-24,Male,Technology,Mid-level,5,Everyday,2,Work-Life Balance,9,8.0
+20240110142039,35-44,Female,Finance,Senior-level,3,A few times a week,4,Opportunities for growth,5,6.0
+20240110150028,25-34,Female,Finance,Mid-level,5,A few times a week,4,Compensation and benefits,8,10.0
+20240110152258,25-34,Female,Finance,Entry-level,2,Never,3,Work relationships,3,3.0
+20240110152736,18-24,Male,Technology,Executive/Leadership,4,A few times a month,3,Meaningful work,7,6.0
+20240110154401,25-34,Female,Education,Entry-level,4,Everyday,4,Compensation and benefits,7,8.0
+20240110155308,25-34,Male,Construction,Entry-level,4,A few times a month,4,Job fit and skills match,8,6.0
+20240110160941,25-34,Female,Education,Senior-level,4,A few times a month,3,Work relationships,7,7.0
+20240110161052,25-34,Female,Finance,Mid-level,5,Once a week,2,Recognition and appreciation,9,9.0
+20240110163108,55-64,Male,Technology,Mid-level,4,A few times a week,5,Compensation and benefits,8,8.0
+20240110171208,25-34,Female,Technology,Mid-level,4,Everyday,3,Work-Life Balance,7,8.0
+20240110174439,25-34,Female,Science,Senior-level,2,Once a week,2,Opportunities for growth,5,5.0
+20240110174610,35-44,Female,Supply Chain,Mid-level,2,Once a week,5,Work-Life Balance,5,7.0
+20240110174720,25-34,Female,Technology,Mid-level,5,A few times a week,3,Company culture,8,9.0
+20240110175805,25-34,Female,Construction sector,Mid-level,4,Once a week,4,Opportunities for growth,3,7.0
+20240110185636,18-24,Female,Technology,Entry-level,3,Never,4,Work relationships,5,8.0
+20240110190523,18-24,Female,Education,Mid-level,4,Everyday,3,Meaningful work,8,9.0
+20240110191303,25-34,Female,Automotive,Entry-level,2,A few times a week,1,Opportunities for growth,2,4.0
+20240110223627,25-34,Female,Healthcare,Entry-level,2,Never,5,Job fit and skills match,7,4.0
+20240111001852,25-34,Female,Education,Senior-level,4,Everyday,4,Work-Life Balance,7,8.0
+20240111123742,25-34,Female,Healthcare,Mid-level,4,A few times a month,1,Work relationships,5,6.0
+20240111125530,25-34,Female,Technology,Mid-level,3,Everyday,4,Work-Life Balance,6,7.0
+20240111130728,35-44,Female,I do not work currently .,study ,4,Everyday,2,Compensation and benefits,4,6.0
+20240111162310,35-44,Male,Finance,Entry-level,2,A few times a week,5,Work relationships,3,8.0
+20240111172503,25-34,Male,Healthcare,Mid-level,4,A few times a week,3,Work-Life Balance,7,8.0
+20240111180847,35-44,Male,Technology,Entry-level,3,Everyday,4,Work-Life Balance,4,4.0
+20240111181424,25-34,Female,Business,Mid-level,2,Never,2,Company culture,6,9.0
+20240112090248,25-34,Male,Education,Mid-level,4,Everyday,2,Work-Life Balance,8,8.0
+20240113000747,55-64,Female,Insurance,Executive/Leadership,3,A few times a week,4,Compensation and benefits,7,7.0
+20240113101345,25-34,Male,hospitality,Entry-level,3,Never,3,Opportunities for growth,8,7.0
+20240113142839,25-34,Male,Technology,Mid-level,4,A few times a week,4,Autonomy and empowerment,8,9.0
+20240114020903,45-54,Female,Technology,Senior-level,4,A few times a week,4,Meaningful work,7,8.0
